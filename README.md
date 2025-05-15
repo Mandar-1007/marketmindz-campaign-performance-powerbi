@@ -14,8 +14,8 @@ This project presents an interactive Power BI dashboard developed to analyze cus
 ## Dashboard Visuals & Business Insights
 
 ### 1. Campaign Performance Overview
-📊 **Visuals**: Column charts, bar charts, clustered comparisons  
-📌 **Insights**:
+ **Visuals**: Column charts, bar charts, clustered comparisons  
+ **Insights**:
 - Displays acceptance trends across six marketing campaigns
 - Highlights product performance by sales contribution
 - Compares platform preferences (Store, Web, Catalog, Deal) per campaign
@@ -26,8 +26,8 @@ This project presents an interactive Power BI dashboard developed to analyze cus
 ---
 
 ### 2. Buyer Composition Analysis
-📊 **Visuals**: Donut charts, bar graphs, segmented visuals  
-📌 **Insights**:
+ **Visuals**: Donut charts, bar graphs, segmented visuals  
+ **Insights**:
 - Segments customers by age group, marital status, education, and income
 - Tracks purchasing habits by demographic group
 - Highlights how age and household structure influence buying behavior
@@ -38,8 +38,8 @@ This project presents an interactive Power BI dashboard developed to analyze cus
 ---
 
 ### 3. Purchase Drivers (Key Influencer Visual)
-📊 **Visuals**: AI-powered Key Influencers chart  
-📌 **Insights**:
+ **Visuals**: AI-powered Key Influencers chart  
+ **Insights**:
 - Identifies key factors influencing campaign acceptance and higher spending
 - Highlights the role of income, household size, and platform use
 
@@ -48,7 +48,7 @@ This project presents an interactive Power BI dashboard developed to analyze cus
 
 ---
 
-## 🖼️ Dashboard Previews
+##  Dashboard Previews
 
 ### 1. Campaign Performance Dashboard
 
@@ -67,7 +67,7 @@ This project presents an interactive Power BI dashboard developed to analyze cus
 
 ---
 
-## 🔍 Key Business Insights
+##  Key Business Insights
 
 - **Campaign 6** had the highest customer acceptance, showing strong engagement toward recent marketing efforts.
 - **Campaign 5**, although less accepted, generated the highest total revenue — indicating higher spend per customer.
